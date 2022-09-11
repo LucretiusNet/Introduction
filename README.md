@@ -1,4 +1,4 @@
-# Introducing Lucretius Project
+# Project Abstract
 Lucretius is a fully decentralized metaverse web-based game that is filled with endless fun and adventure. It is an exciting new complex where you can connect with other users, make new friends, participate in community events, win contests, exchange NFTs at the marketplace, and many other fun activities.
 <br>
 <br>
